@@ -1,0 +1,67 @@
+
+_skin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+default-window
+  rotate: false
+  xy: 0, 68
+  size: 159, 171
+  split: 70, 75, 29, 23
+  orig: 159, 171
+  offset: 0, 0
+  index: -1
+default-round-down
+  rotate: false
+  xy: 0, 16
+  size: 125, 52
+  split: 22, 23, 8, 8
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+default-round
+  rotate: false
+  xy: 0, 16
+  size: 125, 52
+  split: 22, 23, 8, 8
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 159, 202
+  size: 57, 37
+  split: 8, 8, 8, 8
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+textfield_transparent
+  rotate: false
+  xy: 159, 165
+  size: 57, 37
+  split: 8, 8, 8, 8
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 0, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 125, 56
+  size: 3, 12
+  split: 1, 1, 1, 1
+  orig: 3, 12
+  offset: 0, 0
+  index: -1
+selection
+  rotate: false
+  xy: 216, 238
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
